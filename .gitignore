@@ -107,3 +107,4 @@ obt/tests/bstest
 obt/tests/ddtest
 obt/tests/linktest
 obt/tests/watchtest
+build/
